@@ -1,0 +1,30 @@
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date
+ 
+Open Ended Schemes(Debt Scheme - Banking and PSU Fund)
+ 
+Aditya Birla Sun Life Mutual Fund
+ 
+119551;INF209KA12Z1;INF209KA13Z9;Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct Plan-Dividend;159.817;15-Feb-2021
+119552;INF209K01YM2;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Direct Plan-Monthly Dividend;114.3157;15-Feb-2021
+119553;INF209K01YO8;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Direct Plan-Quarterly Dividend;112.2331;15-Feb-2021
+108272;INF209K01LX6;INF209KA11Z3;Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Dividend;166.8314;15-Feb-2021
+108273;INF209K01LV0;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Growth;281.6177;15-Feb-2021
+110282;INF209K01LU2;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Monthly Dividend;111.9117;15-Feb-2021
+108274;INF209K01LN7;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Quarterly Dividend;109.975;15-Feb-2021
+103176;INF209K01LT4;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Retail Plan-Growth;422.7433;15-Feb-2021
+110490;INF209K01LR8;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Retail Plan-Monthly Dividend;111.769;15-Feb-2021
+106157;INF209K01LS6;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Retail Plan-Quarterly Dividend;112.7721;15-Feb-2021
+119550;INF209K01YN0;-;Aditya Birla Sun Life Banking & PSU Debt Fund- Direct Plan-Growth;287.9433;15-Feb-2021
+ 
+Axis Mutual Fund
+ 
+128952;INF846K01NF8;-;Axis Banking & PSU Debt Fund - Direct Plan - Bonus Option;1,532.8272;14-Jun-2017
+120437;-;INF846K01CU0;Axis Banking & PSU Debt Fund - Direct Plan - Daily Dividend Option;1034;15-Feb-2021
+120438;INF846K01CR6;-;Axis Banking & PSU Debt Fund - Direct Plan - Growth Option;2083.4836;15-Feb-2021
+120439;INF846K01CT2;INF846K01CS4;Axis Banking & PSU Debt Fund - Direct Plan - Monthly Dividend Option;1031.5473;15-Feb-2021
+120436;INF846K01CV8;INF846K01CW6;Axis Banking & PSU Debt Fund - Direct Plan - Weekly Dividend Option;1034.7362;15-Feb-2021
+128953;INF846K01NG6;-;Axis Banking & PSU Debt Fund - Regular Plan - Bonus Option;1289.4075;18-May-2015
+117447;-;INF846K01CC8;Axis Banking & PSU Debt Fund - Regular Plan - Daily Dividend Option;1034.2316;15-Feb-2021
+117446;INF846K01CB0;-;Axis Banking & PSU Debt Fund - Regular Plan - Growth option;2046.1226;15-Feb-2021
+117449;INF846K01CF1;INF846K01CG9;Axis Banking & PSU Debt Fund - Regular Plan - Monthly Dividend Option;1031.1095;15-Feb-2021
+117448;INF846K01CD6;INF846K01CE4;Axis Banking & PSU Debt Fund - Regular Plan - Weekly Dividend option;1034.4273;15-Feb-2021
