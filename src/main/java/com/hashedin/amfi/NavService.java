@@ -71,7 +71,8 @@ public class NavService {
 			if (line.isBlank()) {
 				continue;
 			}
-			if (line.startsWith(id)) {
+			// Search for id till you find semi-colon, otherwise id=12 will also match id=128372
+			if (line.startsWith(id + ";")) {
 				String tokens[] = line.split(";");
 				if (tokens.length != 6) {
 					throw new IllegalStateException("AMFI response format has changed, expected exactly 6 tokens. \n" + line);
@@ -80,7 +81,7 @@ public class NavService {
 				return toLong(navAsText);
 			}
 		}
-		throw new IllegalArgumentException("Mutual Fund ID " + id + " not found");
+		throw new MutualFundNotFound(id);
 	}
 	
 	private long toLong(String navAsText) {
