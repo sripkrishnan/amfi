@@ -14,7 +14,16 @@ This code demonstrates the following -
 1. Using MockRestServiceServer to simulate external REST APIs
 
 
+## Code Walkthrough
+
 For a detailed code walk-through, please review the following pull requests:
 
 1. [Step 1: Create scaffold using start.spring.io](https://github.com/sripkrishnan/amfi/pull/1)
 1. [Step 2: Basic service implementation with unit tests](https://github.com/sripkrishnan/amfi/pull/2)
+
+
+## Running the code
+
+This is a standard Spring Boot project. The initial scaffold was downloaded from https://start.spring.io/. It uses Maven and Java 8.
+
+To run the project: `./mvnw springb-boot:run`
