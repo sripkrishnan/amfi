@@ -20,7 +20,7 @@ For a detailed code walk-through, please review the following pull requests:
 
 1. [Step 1: Create scaffold using start.spring.io](https://github.com/sripkrishnan/amfi/pull/1)
 1. [Step 2: Basic service implementation with unit tests](https://github.com/sripkrishnan/amfi/pull/2)
-
+1. [Step 3: Bug Fix: ID based lookup must be exact match](https://github.com/sripkrishnan/amfi/pull/3)
 
 ## Running the code
 
