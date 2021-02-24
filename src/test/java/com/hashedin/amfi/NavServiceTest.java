@@ -58,4 +58,17 @@ class NavServiceTest {
 		IllegalStateException exception = assertThrows(IllegalStateException.class, () -> service.getLatestNav("119551"));
 		assertTrue(exception.getMessage().contains("AMFI response format has changed"));
 	}
+	
+	@Test
+	void testWithPartialId() {
+		/*
+		 * id=12 should NOT match any mutual fund with id = 12*
+		 */
+		Resource validAmfiResource = new ClassPathResource("amfi/valid-response.txt");
+		this.amfiServer
+			.expect(ExpectedCount.manyTimes(), anything())
+			.andRespond(withSuccess(validAmfiResource, MediaType.TEXT_PLAIN));
+		
+		assertThrows(MutualFundNotFound.class, () -> service.getLatestNav("12"));
+	}
 }
